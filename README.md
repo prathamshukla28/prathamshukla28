@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/prathamshukla28">
-    <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=20&pause=1000&color=4F46E5&center=true&vCenter=true&width=640&lines=I+turn+messy+data+into+models+that+ship;End-to-end+ML+%E2%80%94+pipeline+%E2%86%92+model+%E2%86%92+API+%E2%86%92+Docker;Reverse+engineering+%2B+security+tooling;Open+to+ML+%2F+Data+Engineer+roles" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=24&pause=1000&color=4F46E5&center=true&vCenter=true&width=900&lines=I+turn+messy+data+into+models+that+ship;End-to-end+ML+%E2%80%94+pipeline+%E2%86%92+model+%E2%86%92+API+%E2%86%92+Docker;Reverse+engineering+%2B+security+tooling;Open+to+ML+%2F+Data+Engineer+roles" alt="Typing intro" />
   </a>
 </p>
 
@@ -29,25 +29,7 @@ I also build reverse-engineering and security tooling, so contact me if you're w
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <br />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <br />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Ghidra-D22128?style=flat-square&logoColor=white" alt="Ghidra" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,ts,js,java,sklearn,fastapi,docker,githubactions,react,supabase,git,linux,vscode&perline=7" alt="Tech stack" />
 </p>
 
 ## 🚀 Featured Projects
@@ -65,9 +47,8 @@ I also build reverse-engineering and security tooling, so contact me if you're w
 <p align=center>
 <img align="center" src="/general.svg" alt="general" height="100%" width="100%"><br><br>
 <img align="center" src="/languages.svg" alt="languages" height="100%" width="100%"><br><br>
-<img align="center" src="https://github-trophies.vercel.app/?username=prathamshukla28&theme=algolia&column=4&margin-w=10&no-frame=true" alt="trophies" height="100%" width="100%"><br><br>
+<img align="center" src="https://github-trophies.vercel.app/?username=prathamshukla28&theme=algolia&title=MultiLanguage,LongTimeUser,NewUser,Commits,Repositories,PullRequest&column=3&row=2&margin-w=15&margin-h=15&no-frame=true" alt="trophies" height="100%" width="100%"><br><br>
 <img align="center" src="https://streak-stats.demolab.com/?user=prathamshukla28&theme=algolia&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="streak" height="100%" width="100%"><br><br>
-<img align="center" src="/isocalendar.svg" alt="isocalendar" height="100%" width="100%"><br><br>
 </p>
 
 ## 🐍 Contribution Snake
