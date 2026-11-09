@@ -45,19 +45,6 @@ jobs:
           plugin_languages_indepth: false
           plugin_languages_limit: 10
 
-      - name: 🦑 Achievements
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-          filename: achievements.svg
-          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
-          config_display: large
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
-
       - name: 🦑 Isocalendar
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest

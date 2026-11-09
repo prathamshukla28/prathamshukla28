@@ -68,7 +68,6 @@ I also build reverse-engineering and security tooling, so contact me if you're w
 <img align="center" src="https://github-trophies.vercel.app/?username=prathamshukla28&theme=algolia&column=4&margin-w=10&no-frame=true" alt="trophies" height="100%" width="100%"><br><br>
 <img align="center" src="https://streak-stats.demolab.com/?user=prathamshukla28&theme=algolia&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="streak" height="100%" width="100%"><br><br>
 <img align="center" src="/isocalendar.svg" alt="isocalendar" height="100%" width="100%"><br><br>
-<img align="center" src="/achievements.svg" alt="achievements" height="100%" width="100%"><br><br>
 </p>
 
 ## 🐍 Contribution Snake
