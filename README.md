@@ -55,7 +55,7 @@ I also build reverse-engineering and security tooling, so contact me if you're w
 | 👁️ **[Trinetra](https://github.com/prathamshukla28/trinetra)** | Reverse-engineer → audit → rebuild CLI over Semgrep, Ghidra and Claude | JavaScript · Ghidra · Semgrep |
 | 🧭 **[Life OS](https://github.com/prathamshukla28/life-os)** | Local-first decision mentor (finance, health, career) with cited rules and fail-closed SHIP / HOLD / BLOCK verdicts, plus an ISO-week planner | Python · stdlib only · CLI |
 | 💪 **[ComeBack](https://github.com/prathamshukla28/-ComeBack-)** | Habit and workout tracker with an AI coach, relapse-aware streaks and offline-safe logging | TypeScript · Expo · Supabase · Gemini |
-| 🏅 **[Olympic Medal Predictor](https://github.com/prathamshukla28/Olympic-Medal-Predictor)** | Predicts Olympic medal counts per country from team size and past medals, with a time-based train/test split and per-team error analysis | Python · scikit-learn · Jupyter |
+| 🏅 **[Olympic Medal Predictor](https://github.com/prathamshukla28/Olympic-Medal-Predictor)** | Predicts Olympic medal counts per country from team size and past medals, with a time-based train/test split: **3.3 medals MAE** on 2012 and 2016 | Python · scikit-learn · Jupyter |
 
 ## 📊 GitHub Stats
 
