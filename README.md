@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="avatar/avatar-photo.gif" width="180" alt="Pratham Shukla" />
+</p>
+
+<p align="center">
   <a href="https://github.com/prathamshukla28">
     <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=24&pause=1000&color=4F46E5&center=true&vCenter=true&width=900&lines=I+turn+messy+data+into+models+that+ship;End-to-end+ML+%E2%80%94+pipeline+%E2%86%92+model+%E2%86%92+API+%E2%86%92+Docker;Reverse+engineering+%2B+security+tooling;Open+to+ML+%2F+Data+Engineer+roles" alt="Typing intro" />
   </a>
