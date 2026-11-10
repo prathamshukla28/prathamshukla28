@@ -3,7 +3,7 @@
     python3 avatar/make_avatar.py                    # monogram "PS"
     python3 avatar/make_avatar.py --photo me.jpg     # your photo inside the ring
 
-Writes avatar/avatar.gif (500x500, looping, under GitHub's 1 MB avatar limit).
+Writes avatar/avatar.gif (400x400, looping, ~400 KB so GitHub accepts it).
 """
 
 import argparse
@@ -13,10 +13,10 @@ from pathlib import Path
 import numpy as np
 from PIL import Image, ImageDraw, ImageFilter, ImageFont
 
-SIZE = 500
+SIZE = 400
 SS = 2  # supersampling factor for smooth edges
-FRAMES = 36
-FRAME_MS = 60
+FRAMES = 24
+FRAME_MS = 85
 BG = (12, 15, 24)
 STOPS = [(79, 70, 229), (8, 145, 178), (56, 189, 248), (139, 135, 255), (79, 70, 229)]
 FONT = "/System/Library/Fonts/Avenir Next.ttc"
@@ -102,7 +102,7 @@ def main():
     strip = Image.new("RGB", (SIZE, SIZE * 4))
     for i, f in enumerate(frames[:: FRAMES // 4][:4]):
         strip.paste(f, (0, SIZE * i))
-    palette = strip.quantize(colors=200, method=Image.Quantize.MEDIANCUT)
+    palette = strip.quantize(colors=128, method=Image.Quantize.MEDIANCUT)
     out = [f.quantize(palette=palette, dither=Image.Dither.NONE) for f in frames]
     out[0].save(args.out, save_all=True, append_images=out[1:], duration=FRAME_MS, loop=0, optimize=True, disposal=1)
     print(f"{args.out}: {Path(args.out).stat().st_size / 1024:.0f} KB, {FRAMES} frames")
